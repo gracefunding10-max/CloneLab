@@ -1,0 +1,6 @@
+{
+  "name": "CloneLab",
+  "description": "No-root Android virtual container runtime with camera feed redirection layer and security gating.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
